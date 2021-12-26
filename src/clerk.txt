@@ -1,0 +1,360 @@
+Please select one of the following options:
+f - End program
+e - Display information about all events
+c - Display information about all clients
+b - Buy tickets for client
+r - Return ticket
+e
+
+Information on events and their available tickets are displayed below:
+Event: Bobsleigh | Available Tickets: 41
+Event: Curling | Available Tickets: 8
+Event: Figure Skating | Available Tickets: 7
+Event: Ice Hockey | Available Tickets: 2
+Event: Ski Jumping | Available Tickets: 66
+Event: Snowboarding | Available Tickets: 4
+
+Please select one of the following options:
+f - End program
+e - Display information about all events
+c - Display information about all clients
+b - Buy tickets for client
+r - Return ticket
+c
+
+Information on clients and their purchased tickets are displayed below:
+Anna Jones | No tickets purchased.
+Michael Jones | No tickets purchased.
+Ted Smith | No tickets purchased.
+
+Please select one of the following options:
+f - End program
+e - Display information about all events
+c - Display information about all clients
+b - Buy tickets for client
+r - Return ticket
+b
+
+Please input the name of the client, or press 'q' to leave:
+peterparker
+Please enter the first name and second name of the Client, separated by a space
+(e.g. 'John Smith')
+
+Please input the name of the client, or press 'q' to leave:
+Peter Parker
+Client not found.
+Please enter the first name and second name of the Client, separated by a space
+(e.g. 'John Smith')
+
+Please input the name of the client, or press 'q' to leave:
+Michael Jones
+Client 'Michael Jones' found!
+
+Please input the name of the event you would like to buy for, or press 'q' to leave
+Figure Skating
+Figure Skating recognised!
+
+How many tickets would you like to buy for Figure Skating?
+Alternatively, press 'q' to leave
+five
+Incorrect format. Please try again.
+
+How many tickets would you like to buy for Figure Skating?
+Alternatively, press 'q' to leave
+5
+Success - Michael Jones has bought 5 tickets for Figure Skating.
+
+Please select one of the following options:
+f - End program
+e - Display information about all events
+c - Display information about all clients
+b - Buy tickets for client
+r - Return ticket
+b
+
+Please input the name of the client, or press 'q' to leave:
+Ted Smith
+Client 'Ted Smith' found!
+
+Please input the name of the event you would like to buy for, or press 'q' to leave
+Golf
+Event not recognised. Please try again.
+
+Please input the name of the event you would like to buy for, or press 'q' to leave
+Figure Skating
+Figure Skating recognised!
+
+How many tickets would you like to buy for Figure Skating?
+Alternatively, press 'q' to leave
+4
+
+Sorry, Figure Skating only has 2 remaining.
+A letter has been printed in letters.txt to convey our apologies.
+Please try again.
+
+How many tickets would you like to buy for Figure Skating?
+Alternatively, press 'q' to leave
+2
+Success - Ted Smith has bought 2 tickets for Figure Skating.
+
+Please select one of the following options:
+f - End program
+e - Display information about all events
+c - Display information about all clients
+b - Buy tickets for client
+r - Return ticket
+b
+
+Please input the name of the client, or press 'q' to leave:
+Anna Jones
+Client 'Anna Jones' found!
+
+Please input the name of the event you would like to buy for, or press 'q' to leave
+Snowboarding
+Snowboarding recognised!
+
+How many tickets would you like to buy for Snowboarding?
+Alternatively, press 'q' to leave
+4
+Success - Anna Jones has bought 4 tickets for Snowboarding.
+
+Please select one of the following options:
+f - End program
+e - Display information about all events
+c - Display information about all clients
+b - Buy tickets for client
+r - Return ticket
+b
+
+Please input the name of the client, or press 'q' to leave:
+Anna Jones
+Client 'Anna Jones' found!
+
+Please input the name of the event you would like to buy for, or press 'q' to leave
+Curling
+Curling recognised!
+
+How many tickets would you like to buy for Curling?
+Alternatively, press 'q' to leave
+10
+
+Sorry, Curling only has 8 remaining.
+A letter has been printed in letters.txt to convey our apologies.
+Please try again.
+
+How many tickets would you like to buy for Curling?
+Alternatively, press 'q' to leave
+5
+Success - Anna Jones has bought 5 tickets for Curling.
+
+Please select one of the following options:
+f - End program
+e - Display information about all events
+c - Display information about all clients
+b - Buy tickets for client
+r - Return ticket
+Anna Jones
+Please enter a valid option and try again.
+
+Please select one of the following options:
+f - End program
+e - Display information about all events
+c - Display information about all clients
+b - Buy tickets for client
+r - Return ticket
+b
+
+Please input the name of the client, or press 'q' to leave:
+Anna Jones
+Client 'Anna Jones' found!
+
+Please input the name of the event you would like to buy for, or press 'q' to leave
+Ski Jumping
+Ski Jumping recognised!
+
+How many tickets would you like to buy for Ski Jumping?
+Alternatively, press 'q' to leave
+10
+Success - Anna Jones has bought 10 tickets for Ski Jumping.
+
+Please select one of the following options:
+f - End program
+e - Display information about all events
+c - Display information about all clients
+b - Buy tickets for client
+r - Return ticket
+b
+
+Please input the name of the client, or press 'q' to leave:
+Anna Jones
+Client 'Anna Jones' found!
+
+Please input the name of the event you would like to buy for, or press 'q' to leave
+Bobsleigh
+Bobsleigh recognised!
+
+How many tickets would you like to buy for Bobsleigh?
+Alternatively, press 'q' to leave
+4
+Anna Jones already has tickets purchased for 3 different events; No more tickets can be purchased.
+If tickets for different events are required, please return some first.
+
+Please select one of the following options:
+f - End program
+e - Display information about all events
+c - Display information about all clients
+b - Buy tickets for client
+r - Return ticket
+e
+
+Information on events and their available tickets are displayed below:
+Event: Bobsleigh | Available Tickets: 41
+Event: Curling | Available Tickets: 3
+Event: Figure Skating | Available Tickets: 0
+Event: Ice Hockey | Available Tickets: 2
+Event: Ski Jumping | Available Tickets: 56
+Event: Snowboarding | Available Tickets: 0
+
+Please select one of the following options:
+f - End program
+e - Display information about all events
+c - Display information about all clients
+b - Buy tickets for client
+r - Return ticket
+c
+
+Information on clients and their purchased tickets are displayed below:
+Anna Jones | 5 tickets purchased for Curling. 10 tickets purchased for Ski Jumping. 4 tickets purchased for Snowboarding.
+Michael Jones | 5 tickets purchased for Figure Skating.
+Ted Smith | 2 tickets purchased for Figure Skating.
+
+Please select one of the following options:
+f - End program
+e - Display information about all events
+c - Display information about all clients
+b - Buy tickets for client
+r - Return ticket
+r
+
+Please input the name of the client, or press 'q' to leave:
+Anna Jones
+Client 'Anna Jones' found!
+
+Anna Jones currently has tickets for the following events:
+Curling (5 tickets purchased)
+Ski Jumping (10 tickets purchased)
+Snowboarding (4 tickets purchased)
+
+Please input the name of the event you would like to return tickets for, or press 'q' to leave
+Snowboarding
+Anna Jones has 4 tickets for Snowboarding.
+Please enter how many you would like to return, or press 'q' to cancel.
+10
+Must return between 1 and 4 tickets.
+Anna Jones has 4 tickets for Snowboarding.
+Please enter how many you would like to return, or press 'q' to cancel.
+2
+2 tickets returned for Snowboarding.
+
+Please select one of the following options:
+f - End program
+e - Display information about all events
+c - Display information about all clients
+b - Buy tickets for client
+r - Return ticket
+r
+
+Please input the name of the client, or press 'q' to leave:
+Anna Jones
+Client 'Anna Jones' found!
+
+Anna Jones currently has tickets for the following events:
+Curling (5 tickets purchased)
+Ski Jumping (10 tickets purchased)
+Snowboarding (2 tickets purchased)
+
+Please input the name of the event you would like to return tickets for, or press 'q' to leave
+Curling
+Anna Jones has 5 tickets for Curling.
+Please enter how many you would like to return, or press 'q' to cancel.
+5
+All tickets returned for Curling.
+
+Please select one of the following options:
+f - End program
+e - Display information about all events
+c - Display information about all clients
+b - Buy tickets for client
+r - Return ticket
+b
+
+Please input the name of the client, or press 'q' to leave:
+Anna Jones
+Client 'Anna Jones' found!
+
+Please input the name of the event you would like to buy for, or press 'q' to leave
+Bobsleigh
+Bobsleigh recognised!
+
+How many tickets would you like to buy for Bobsleigh?
+Alternatively, press 'q' to leave
+4
+Success - Anna Jones has bought 4 tickets for Bobsleigh.
+
+Please select one of the following options:
+f - End program
+e - Display information about all events
+c - Display information about all clients
+b - Buy tickets for client
+r - Return ticket
+b
+
+Please input the name of the client, or press 'q' to leave:
+Anna Jones
+Client 'Anna Jones' found!
+
+Please input the name of the event you would like to buy for, or press 'q' to leave
+Bobsleigh
+Bobsleigh recognised!
+
+How many tickets would you like to buy for Bobsleigh?
+Alternatively, press 'q' to leave
+11
+Success - Anna Jones has bought 11 more tickets for Bobsleigh.
+Anna Jones now has 15 tickets for Bobsleigh.
+
+Please select one of the following options:
+f - End program
+e - Display information about all events
+c - Display information about all clients
+b - Buy tickets for client
+r - Return ticket
+r
+
+Please input the name of the client, or press 'q' to leave:
+Ted Smith
+Client 'Ted Smith' found!
+
+Ted Smith currently has tickets for the following events:
+Figure Skating (2 tickets purchased)
+
+Please input the name of the event you would like to return tickets for, or press 'q' to leave
+Curling
+Ted Smith does not currently have any tickets for Curling to return.
+Please check your input and try again.
+
+Ted Smith currently has tickets for the following events:
+Figure Skating (2 tickets purchased)
+
+Please input the name of the event you would like to return tickets for, or press 'q' to leave
+q
+
+Please select one of the following options:
+f - End program
+e - Display information about all events
+c - Display information about all clients
+b - Buy tickets for client
+r - Return ticket
+f
+
+Process finished with exit code 0
